@@ -1,0 +1,4 @@
+sample	date	sender	cluster_name	cluster_name_3	cluster_code
+A_GMI-17-001-D-	2020-03-01	partnerA	CT_0003	Beta	CT_0003.Beta
+B_GMI-17-001-D-	2020-03-11	partnerB	CT_0003	Beta	CT_0003.Beta
+C_GMI-17-001-D-	2020-08-01	partnerC	CT_0003	Alpha	CT_0003.Alpha

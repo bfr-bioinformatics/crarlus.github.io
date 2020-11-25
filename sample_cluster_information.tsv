@@ -1,0 +1,13 @@
+sample	cluster_name	Sender	Timestamp	representative_sample	external_cluster_name	representative_sample_externalcluster	serovar	cluster_name_3	cluster_code
+A_GMI-17-001-D-	CT_0003	partnerA	2020-03-01	A_GMI-17-001-D-	NA	NA	Bovismorbificans	Beta	CT_0003.Beta
+A_GMI-17-002-D-	CT_0001	partnerA	2020-04-01	B_GMI-17-002-D-	NA	NA	Senftenberg	Beta	CT_0001.Beta
+A_GMI15-001-D-	CT_0004	partnerA	2020-01-01	A_GMI15-001-D-	EpiCluster_1	C_GMI15-001-D-	Typhimurium	Beta	CT_0004.Beta
+A_GMI15-002-D-	CT_0002	partnerA	2020-02-01	A_GMI15-002-D-	EpiCluster_2	C_GMI15-002-D-	Concord	Beta	CT_0002.Beta
+B_GMI-17-001-D-	CT_0003	partnerB	2020-03-11	A_GMI-17-001-D-	NA	NA	Bovismorbificans	Beta	CT_0003.Beta
+B_GMI-17-002-D-	CT_0001	partnerB	2020-02-11	B_GMI-17-002-D-	NA	NA	Senftenberg	Beta	CT_0001.Beta
+B_GMI15-001-D-	CT_0004	partnerB	2020-05-01	A_GMI15-001-D-	EpiCluster_1	C_GMI15-001-D-	Typhimurium	Beta	CT_0004.Beta
+B_GMI15-002-D-	CT_0002	partnerB	2020-06-01	A_GMI15-002-D-	EpiCluster_2	C_GMI15-002-D-	Concord	Beta	CT_0002.Beta
+C_GMI-17-001-D-	CT_0003	partnerC	2020-08-01	A_GMI-17-001-D-	NA	NA	Bovismorbificans	Alpha	CT_0003.Alpha
+C_GMI-17-002-D-	CT_0001	partnerC	2020-09-01	B_GMI-17-002-D-	NA	NA	Senftenberg	Alpha	CT_0001.Alpha
+C_GMI15-001-D-	CT_0004	partnerC	2020-06-01	A_GMI15-001-D-	EpiCluster_1	C_GMI15-001-D-	Typhimurium	Alpha	CT_0004.Alpha
+C_GMI15-002-D-	CT_0002	partnerC	2020-07-01	A_GMI15-002-D-	EpiCluster_2	C_GMI15-002-D-	Concord	Alpha	CT_0002.Alpha

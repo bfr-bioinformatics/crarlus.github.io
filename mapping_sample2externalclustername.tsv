@@ -1,0 +1,7 @@
+sample	cluster_name	external_cluster_name	representative_sample
+A_GMI15-001-D-	CT_0004	EpiCluster_1	C_GMI15-001-D-
+B_GMI15-001-D-	CT_0004	EpiCluster_1	C_GMI15-001-D-
+C_GMI15-001-D-	CT_0004	EpiCluster_1	C_GMI15-001-D-
+A_GMI15-002-D-	CT_0002	EpiCluster_2	C_GMI15-002-D-
+B_GMI15-002-D-	CT_0002	EpiCluster_2	C_GMI15-002-D-
+C_GMI15-002-D-	CT_0002	EpiCluster_2	C_GMI15-002-D-
